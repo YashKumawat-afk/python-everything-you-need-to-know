@@ -1,0 +1,6 @@
+Name,Subject,Score,Passed,Grade
+Alice,Math,88,True,B
+Bob,Science,92,True,A
+Charlie,Math,75,True,C
+Diana,English,95,True,A
+Ethan,Science,60,False,F
